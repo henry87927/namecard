@@ -1089,3 +1089,10 @@ input, select, textarea {
 			border: 10px solid rgb(255, 255, 255);
 			object-fit: cover;
 		  }
+
+
+		  .responsive {
+			width: 100%;
+			max-width: 400px;
+			height: auto;
+		  }	  
