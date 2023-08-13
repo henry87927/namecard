@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		overflow: hidden;
+		overflow: auto;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -367,7 +367,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		height: 100%;
+		height: auto;
 		left: 0;
 		position: fixed;
 		text-align: center;
@@ -378,7 +378,7 @@ input, select, textarea {
 		#main:before {
 			content: '';
 			display: inline-block;
-			height: 100%;
+			height: auto;
 			margin-right: 0;
 			vertical-align: middle;
 			width: 1px;
