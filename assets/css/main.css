@@ -233,7 +233,7 @@ input, select, textarea {
 		height: 100%;
 		left: 0;
 		opacity: 1;
-		position: static;
+		position: relative;
 		top: 0;
 	}
 
@@ -361,7 +361,7 @@ input, select, textarea {
 		height: 100%;
 		left: 0;
 		opacity: 0;
-		position: static;
+		position: relative;
 		top: 0;
 		width: 100%;
 	}
@@ -723,7 +723,7 @@ input, select, textarea {
 		height: 6em;
 		left: 0;
 		line-height: 8em;
-		position: static;
+		position: relative;
 		text-align: center;
 		width: 100%;
 	}
